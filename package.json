@@ -1,6 +1,6 @@
 {
     "homepage": "https://minm333.github.io/react-image-search",
-    "name": "pics-app",
+    "name": "react-image-search",
     "version": "0.1.0",
     "private": true,
     "dependencies": {
